@@ -1,0 +1,56 @@
+.nav .navbar-nav .navbar-right{
+    background: orange;
+}
+
+div .navbar-header a.navbar-brand{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-family: "Al Bayan";
+
+}
+div .navbar-header a.navbar-brand span.logo{
+    font-size: 10px;
+    font-weight: normal;
+    font-family: normal;
+    color: #666666;
+}
+#discribe {
+    margin-right: 10%;
+
+}
+#discribe h1{
+    color: #515151;
+}
+#discribe p {
+    color:#707070
+}
+button .btn .btn-warning .btn-lg, span.quality {
+    font-size: 12px;
+    color: #707070;
+}
+.thumbnail{
+    background-image: url("img/Layer9.png" );
+    background-repeat: no-repeat;
+    background-position-y: 100px;
+    border: none;
+}
+
+.caption p{
+    font-family: Arial Regular;
+    font-size: 14px;
+    text-align: justify;
+}
+.caption h3{
+    font-family: Myriad Pro Regular;
+    font-size: 11px;
+}
+.col-md-4 ol li {
+    list-style-type: none;
+}
+.col-lg-4 ul li h4{
+    color: orange;
+}
+.col-lg-4 ul li{
+    list-style-type: none;
+}
